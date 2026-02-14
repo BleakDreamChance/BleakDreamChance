@@ -11,3 +11,18 @@
   *⋆｡°✩ Welcome to my creative space! ⋆｡°✩*
 
 </div>
+
+# <p align="center">୨୧ ✧ Bleak Dream Chance ✧ ୨୧</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="50" height="50" />
+</p>
+
+<p align="center">
+$\color{magenta}{\text{iwcare, but please interact! ⋆｡°✩}}$
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Vibe-Hyper%20%26%20Talkative-ff69b4?style=flat-square" />
+</p>
+
