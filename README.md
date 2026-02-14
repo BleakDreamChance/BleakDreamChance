@@ -1,5 +1,13 @@
 <div align="center">
 
+  <img src="https://github.com/BleakDreamChance/BleakDreamChance/blob/80163923bbcd85953d7ae79cc32e1ae5ca35acfc/8c49d1b9d61455033b812af63e9f8341-removebg-preview%20(1).png"/>
+  
+  <br>
+  <br>
+
+
+<div align="center">
+
   <img src="https://raw.githubusercontent.com/BleakDreamChance/BleakDreamChance/758f6a2604eaaa802afb2d9bcf9092b5e11d9352/6608215f-0538-4130-a6ec-2d143a9e9eea-removebg-preview.png" width="38%" />
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/BleakDreamChance/BleakDreamChance/758f6a2604eaaa802afb2d9bcf9092b5e11d9352/14071247-cfa4-4f5c-9a49-db6cdbb2193e-removebg-preview.png" width="38%" />
@@ -19,6 +27,7 @@
 
 </div>
 
+  
 # <p align="center">୨୧ ✧ Bleak Dream Chance ✧ ୨୧</p>
 
 <p align="center">
