@@ -11,6 +11,11 @@
   ## ୨୧ ✧ Bleak Dream Profile ✧ ୨୧
   *⋆｡°✩ Welcome to my creative space! ⋆｡°✩*
 
+<kbd>
+    <marquee width="60%" direction="left" scrollamount="7">
+      **I'M SOLOOO DON'T KILLL MEE !!!** ✧ 💀 ✧ **I'M SOLOOO DON'T KILLL MEE !!!**
+    </marquee>
+  </kbd>
 
 </div>
 
@@ -30,9 +35,6 @@ $\color{magenta}{\text{iwcare, but please interact! ⋆｡°✩}}$
 
 ![](https://img.shields.io/badge/AFK-OFFTAB-ff69b4?style=for-the-badge) ![](https://img.shields.io/badge/W2I-ONLY-9370db?style=for-the-badge) ![](https://img.shields.io/badge/LATE_RESPOND-DNC-ff1493?style=for-the-badge)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
 
 $<p align="center">
 $\color{hotpink}{\textit{✨ ୨୧ Mostly Afk offtab, Only w2i}} \color{purple}{\textit{ If u need smh and bmf ୨୧ ✨}}$
