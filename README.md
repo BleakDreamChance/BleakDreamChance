@@ -1,5 +1,10 @@
-
 <div align="center">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/BleakDreamChance/BleakDreamChance/956831cc6ae386c3d5d7370d1b73ffedd852dbea/5c5638df-992c-4fd2-89ae-4a92d7778116.jpeg" width="100%">
+
+</div>
 
 <img src="https://raw.githubusercontent.com/BleakDreamChance/BleakDreamChance/956831cc6ae386c3d5d7370d1b73ffedd852dbea/905e3a5d-e846-44d0-b36e-37a12d4f5611-removebg-preview.png" width="550px">
 
