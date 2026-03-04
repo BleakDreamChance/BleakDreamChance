@@ -18,7 +18,7 @@
         $\color{red}{\text{"𝓒𝓪𝓷 𝔀𝓮 𝓪𝓵𝔀𝓪𝔂𝓼 𝓫𝓮 𝓽𝓱𝓲𝓼 𝓬𝓵𝓸𝓼𝓮... 𝓯𝓸𝓻𝓮𝓿𝓮𝓻 𝓪𝓷𝓭 𝓮𝓿𝓮𝓻?"}}$
       </p>
         <img src="https://github.com/BleakDreamChance/BleakDreamChance/blob/f93d19977030fcf9a01b15cdf9664bb5c0d6f631/3784c1ee-0b50-477b-b6e2-59e03107ad66.jpeg" width="100%">
-         <img src="3be81fefb23b58a202aa72417e9fffb9.gif" width="100%">
+         <img src="7aea3e5a4c560c3536b22645e233ad0d.gif" width="50%">
         <br><br>
          <p align="center">
         <img src="https://github.com/BleakDreamChance/BleakDreamChance/blob/f93d19977030fcf9a01b15cdf9664bb5c0d6f631/3784c1ee-0b50-477b-b6e2-59e03107ad66.jpeg" width="100%">
