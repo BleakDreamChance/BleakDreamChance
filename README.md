@@ -10,6 +10,12 @@
 
 <br>
 
+<br>
+
+<img src="" width="100%">
+
+</div>
+
 # $\color{red}{\text{── † CLOWNZY † ──}}$
 
 <br>
